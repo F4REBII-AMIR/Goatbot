@@ -17,8 +17,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100009041075509",
-    "100031189595857",
+    "100000856538718",
+    "",
     ""
   ],
   "whiteListMode": {
@@ -26,8 +26,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Xynn AI",
-  "prefix": "+",
+  "nickNameBot": "SHONA🩷",
+  "prefix": "*",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
